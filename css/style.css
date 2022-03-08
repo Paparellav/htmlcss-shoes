@@ -7,7 +7,7 @@
 
 /* COMMON/UTILITY */
 html {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Rubik Mono One', sans-serif;
     font-size: 62.5%;
     scroll-behavior: smooth;
 }
@@ -32,9 +32,8 @@ img {
 }
 
 .container h2 {
-    font-size: 5.5em;
+    font-size: 4em;
     color: yellow;
-    text-transform: uppercase;
 }
 
 /* NAV */
