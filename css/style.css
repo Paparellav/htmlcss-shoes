@@ -37,10 +37,10 @@ img {
 }
 
 /* NAV */
-ul {
-    width: 100%;
-    text-align: right;
+nav {
     position: fixed;
+    top: 0;
+    right: 0;
     z-index: 1;
 }
 
